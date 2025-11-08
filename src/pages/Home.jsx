@@ -44,7 +44,7 @@ export const Home = () => {
 
       <section className="hero" id="inicio">
         <div className="hero-content fade-in-up">
-          <h1>Congreso de Tecnologías de la Información 2023</h1>
+          <h1>Congreso de Tecnologías de la Información 2025</h1>
           <p>
             Descubre el futuro de la tecnología con los líderes e innovadores más influyentes del sector. 
             Una experiencia inmersiva que redefine los límites de la innovación digital y transforma 
